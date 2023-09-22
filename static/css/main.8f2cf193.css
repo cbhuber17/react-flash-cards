@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{font-family:sans-serif;padding:20px}.flashcards{display:grid;@media (min-width:500px){grid-template-columns:1fr 1fr 1fr}@media (max-width:500px){grid-template-columns:1fr}grid-gap:20px;gap:20px}.flashcards div{align-items:center;aspect-ratio:2/1;background-color:#f7f7f7;border:1px solid #e7e7e7;border-radius:7px;cursor:pointer;display:flex;justify-content:center;padding:20px;text-align:center}div.selected{background-color:#e03131;border:1px solid #e03131;color:#fff;font-weight:700}
+/*# sourceMappingURL=main.8f2cf193.css.map*/
